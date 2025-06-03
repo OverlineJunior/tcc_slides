@@ -20,7 +20,9 @@
 
 - Pesquisa aplicada;
 
-- Pesquisa exploratória.
+- Pesquisa exploratória;
+
+- Abordagem qualitativa.
 
 == Contexto
 
